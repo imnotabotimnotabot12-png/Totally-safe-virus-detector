@@ -1,2 +1,7 @@
 # Totally-safe-virus-detector
-uhh its a virus detector :DDD
+
+you need AutoHotKey v2
+
+...
+
+  ;3
