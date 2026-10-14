@@ -14,6 +14,6 @@ a virus detector (TOTALLY SAFE) built with **AutoHotkey v2**.
 * [AutoHotkey v2.0+](https://www.autohotkey.com/)
 
 ## 🛠️ Usage
-1. Download `advanced_scanner.ahk`.
-2. Double-click to run with AutoHotkey v2.
-3. Drag and drop any file or paste a SHA-256 hash to analyze!
+1. Download `Totally safe virus detector.exe`.
+3. Double-click to run with AutoHotkey v2.
+4. Drag and drop any file or paste a SHA-256 hash to analyze!
